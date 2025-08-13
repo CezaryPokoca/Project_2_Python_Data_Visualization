@@ -11,7 +11,7 @@ The objective was to clean, analyze, and visualize the data to uncover key trend
 ## 📂 Project Structure
 
 * **Jupyter Notebook** - Contains all Python code for data cleaning, analysis, and visualization.
-* **Raw Data** - A single CSV file (COVID_19_Data.csv) containing the raw dataset.
+* **Raw Data** - A single CSV file (`COVID_19_Data.csv`) containing the raw dataset.
 * **Visualizations & Dashboards** - Interactive elements are generated directly within the notebook using Plotly and Dash.
 
 ---
@@ -22,7 +22,7 @@ The following steps were performed to prepare the dataset for analysis:
 
 | Step | Action                       | Description                                                                                           |
 | ---- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1    | **Data Loading**             | Loaded the initial dataset from the COVID_19_Data.csv file.                                           |
+| 1    | **Data Loading**             | Loaded the initial dataset from the `COVID_19_Data.csv` file.                                           |
 | 2    | **Formatting Verification**  | Standardized data types, converting the date column to datetime objects and population to integers.   |
 | 3    | **Handling Missing Data**    | Inspected the dataset for NaN values to understand data completeness.                                 |
 | 4    | **Data Integrity Check**     | Checked for and handled any duplicate rows to ensure data accuracy.                                   |
