@@ -10,8 +10,8 @@ The objective was to clean, analyze, and visualize the data to uncover key trend
 
 ## 📂 Project Structure
 
+* **Raw Data** - A single CSV file `COVID_19_Data.csv` containing the raw dataset.
 * **Jupyter Notebook** - Contains all Python code for data cleaning, analysis, and visualization.
-* **Raw Data** - A single CSV file (`COVID_19_Data.csv`) containing the raw dataset.
 * **Visualizations & Dashboards** - Interactive elements are generated directly within the notebook using Plotly and Dash.
 
 ---
