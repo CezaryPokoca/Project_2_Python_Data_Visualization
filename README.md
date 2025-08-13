@@ -73,6 +73,7 @@ Three interactive dashboards were developed using Dash to provide deeper, dynami
 
 ## 📎 Files in Repository
 
+* `COVID_19_Data.csv` - Raw dataset.
 * `Project_2_COVID_19_Data.ipynb` – Complete project file with all Python code.
 * `README.md` – Project description and methodology (this file).
 
